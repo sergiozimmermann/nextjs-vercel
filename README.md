@@ -1,5 +1,4 @@
-Projeto para testar a hospedagem do vercel usando a biblioteca nextjs.
-Código feito usando react e react-dom.
+Branch para testar a hospedagem da vercel em diferentes branchs do github.
 
-Projeto em produção no link:
-https://nextjs-vercel-two-rho.vercel.app
+Link hospedado:
+https://nextjs-vercel-git-dev-sergiozimmermann.vercel.app
